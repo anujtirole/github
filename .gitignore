@@ -1,0 +1,13 @@
+.env
+*.pyc
+__pycache__/
+.venv/
+venv/
+data/jobhunterx.db
+data/sessions/
+data/resume_tailored/
+data/resume_base.pdf
+logs/
+dashboard/frontend/node_modules/
+dashboard/frontend/dist/
+.DS_Store

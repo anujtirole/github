@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+.score-bar {
+  background: linear-gradient(90deg, #22c55e, #86efac);
+  border-radius: 4px;
+  height: 8px;
+  transition: width 0.3s ease;
+}
